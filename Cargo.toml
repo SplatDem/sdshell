@@ -1,0 +1,13 @@
+[package]
+name = "sdshell"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0.214", features = ["derive"] }
+ctrlc = "3.4.5"
+rustyline = "10.0"
+signal-hook = "0.3.17"
+toml = "0.8.19"
+dirs = "5.0.1"
+chrono = "0.4.38"
