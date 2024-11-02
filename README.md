@@ -2,7 +2,9 @@
 
 Work in progress...
 
-To install:
+DO NOT INSTALL THIS SHIT!!!
+
+To install(idk why):
 
 ```
 git clone https://github.com/SplatDem/sdshell
