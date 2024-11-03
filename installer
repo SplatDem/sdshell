@@ -6,12 +6,5 @@ sudo cp sdshell /bin
 sudo echo '/usr/bin/sdshell' >> /etc/shells
 sudo echo '/bin/sdshell' >> /etc/shells
 
-cd
-cd .config
-mkdir sdshell/
-cd sdshell
-touch sdsh.toml
-
-echo 'user_prompt = "$|> "' >> sdsh.toml
-#echo 'root_prompt = "#|> "' >> sdsh.toml
-echo 'You can configure this shell in ~/.config/sdshell' >> sdsh.toml
+mkdir sdshell/ ~/.config
+mv sdsh.toml ~/.config/sdshell

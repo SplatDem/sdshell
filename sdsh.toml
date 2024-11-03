@@ -1,0 +1,3 @@
+user_prompt = "&|>"
+greet = "You can configure this shell in ~/.config/sdshell"
+clock = false
