@@ -1,8 +1,8 @@
-# Another one shell
+Another one shell
 
 Work in progress...
 
-DO NOT INSTALL THIS SHIT!!!
+# DO NOT INSTALL THIS SHIT!!!
 
 To install(idk why):
 
